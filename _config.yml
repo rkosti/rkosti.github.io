@@ -23,7 +23,7 @@ repository               : "rkosti/rkosti.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Ronak Kosti, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Research engineer building generative and multimodal models that ship"
