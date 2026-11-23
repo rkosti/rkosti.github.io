@@ -1,0 +1,10 @@
+# Header menu, left to right. Add, remove or reorder entries here.
+main:
+  - title: "Portfolio"
+    url: /portfolio/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "CV"
+    url: /cv/
